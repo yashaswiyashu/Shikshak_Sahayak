@@ -1,0 +1,18 @@
+{
+    "student_id": "c1s1",
+    "class_name": "Class 1",
+    "screening_results": {
+        "confidence": "medium",
+        "anxiety": "low",
+        "focus": "medium",
+        "resilience": "high",
+        "emotional_regulation": null
+    },
+    "suggested_followups": [
+        "Encourage continued participation in class discussions.",
+        "Provide positive feedback on help-seeking behavior.",
+        "Reinforce the strategy of taking breaks when facing challenges.",
+        "Acknowledge and praise the student's confidence in mathematics."
+    ],
+    "evaluation_date": "2024-07-24"
+}

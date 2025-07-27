@@ -1,0 +1,71 @@
+[
+  {
+    "question_set_title": "Grade 5 Student Well-being Check",
+    "questions": [
+        {
+            "type": "MCQ",
+            "question": "How often do you feel happy and cheerful?",
+            "options": [
+            "Almost always",
+            "Most of the time",
+            "Sometimes",
+            "Rarely",
+            "Almost never"
+            ]
+        },
+        {
+            "type": "QA",
+            "question": "Describe a time you felt proud of yourself. What did you do?"
+        },
+        {
+            "type": "MCQ",
+            "question": "How easy is it for you to make friends?",
+            "options": [
+            "Very easy",
+            "Easy",
+            "Neutral",
+            "Difficult",
+            "Very difficult"
+            ]
+        },
+        {
+            "type": "FILL_BLANK",
+            "question": "When I feel worried, I usually ________ to help myself calm down."
+        },
+        {
+            "type": "QA",
+            "question": "Is there anything that you are worried or stressed about at school or home?"
+        },
+        {
+            "type": "MCQ",
+            "question": "How often do you participate in activities you enjoy?",
+            "options": [
+            "Almost always",
+            "Most of the time",
+            "Sometimes",
+            "Rarely",
+            "Almost never"
+            ]
+        },
+        {
+            "type": "FILL_BLANK",
+            "question": "I feel most confident when I ________."
+        },
+        {
+            "type": "QA",
+            "question": "Describe a time when you had a disagreement with a friend or classmate. How did you handle it?"
+        },
+        {
+            "type": "MCQ",
+            "question": "How would you describe your sleep most nights?",
+            "options": [
+            "Very restful",
+            "Mostly restful",
+            "Okay",
+            "Not very restful",
+            "Not restful at all"
+            ]
+        }
+    ]
+  }
+]
